@@ -28,18 +28,18 @@
 
          }
 
-        arrowLeft.addEventListener('click', function(){
+    /*    arrowLeft.addEventListener('click', function(){
             if (current === 0){
                 current = sliderImages.length;
                 slideLeft();
             }
-        });
+       }); */
 
-        arrowRight.addEventListener('click', function(){
+       /* arrowRight.addEventListener('click', function(){
             if (current === sliderImages.length - 1){
                 current = -1
             }
             slideRight();
-        });
+        }); */
         
         startSlide();
