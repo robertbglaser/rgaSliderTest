@@ -10,6 +10,8 @@
             }
         }
 
+        
+
         function startSlide(){
             reset();
             sliderImages[0].style.display = "block";
