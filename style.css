@@ -16,7 +16,7 @@ body, .wrapper, #slider, .slide-content, .main-banner{
     height: 75%;
     position: absolute;
     top: 50px;
-    transition: all ease-in-out 500ms;
+    transition: all ease-in-out 300ms;
 }
 
 
